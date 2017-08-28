@@ -20,3 +20,4 @@ a.times do |i|
     puts 'par'
   end
 end
+
